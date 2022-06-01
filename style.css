@@ -1,0 +1,24 @@
+body{
+  text-align:center;
+  background-color: red;
+  font-size:40px;
+}
+#img{
+  height: 600 px;
+  width: 500px;
+ border-radius:50px;
+}
+#h1{
+font-family:cursive;
+  
+  
+}
+#p{
+  font-family:cursive;
+}
+.line{
+  height:8px;
+  width: 500px;
+  background-color:black;
+  margin:30px auto;
+}
